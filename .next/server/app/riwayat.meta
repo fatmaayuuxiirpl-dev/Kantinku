@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/riwayat/layout,_N_T_/riwayat/page,_N_T_/riwayat"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/riwayat/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/d5c3c54859dd8d8e88047922e787683911ca90b11b3dba2fecd76ea100d78517/$/riwayat",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/riwayat/page"
+    },
+    "isFallback": false
+  }
+}
